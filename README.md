@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍💻 Luiz Ribeiro
 
-<!--
-**Lzrb0x/Lzrb0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Ciência da Computação com experiência inicial em desenvolvimento front-end usando React e Next.js.  
+Atualmente, estou migrando para o back-end, focando na construção de APIs robustas e escaláveis com .NET Core.  
+Meu objetivo é aplicar e aprofundar meus conhecimentos para criar soluções eficientes e de alta performance.
 
-Here are some ideas to get you started:
+## 🤖 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![JWT Badge](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+
+## 📊 Estatísticas
+
+<div align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Lzrb0x&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzrb0x&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
+
+## ✉️ Contato
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/luiz-ribeiro-882966240/)
+
+
+
+
+          
+          
