@@ -19,10 +19,10 @@ Meu objetivo é aplicar e aprofundar meus conhecimentos para criar soluções ef
 
 ## 📊 Estatísticas
 
-<div align="left" style="display:flex;">
+<p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Lzrb0x&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzrb0x&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
+</p>
 
 ## ✉️ Contato
 
